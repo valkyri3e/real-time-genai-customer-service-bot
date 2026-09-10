@@ -37,6 +37,7 @@ Task 6 – Multilingual Conversation and Session Management
 Extended the chatbot to support additional languages, mixed-language messages, conversation context, language switching, session management, and clarification for uncertain inputs.
 
 Project Structure
+
 The repository contains the Python project files, test scripts, and detailed project documentation.
 
 Documentation
