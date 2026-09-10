@@ -1,11 +1,13 @@
 # Real-Time GenAI Customer Service Bot internship project
 
 Project Overview
+
 This project is a Real-Time GenAI Customer Service Bot designed to improve customer support by using AI-based features to understand customer messages, process information, manage support requests, and provide relevant responses.
 
 The project was developed as a training and internship project by extending the same chatbot with multiple features across six tasks.
 
 Project Objectives
+
 Build a real-time AI-based customer service chatbot.
 Improve the chatbot's knowledge management and response quality.
 Process different types of customer information and files.
@@ -13,7 +15,9 @@ Manage unresolved customer conversations through support tickets.
 Provide accurate and authorised information using a RAG-based knowledge assistant.
 Analyse customer sentiment and support multiple languages.
 Improve customer support through escalation, session management, and context handling.
+
 Tasks Implemented
+
 Task 1 – Knowledge Base Pipeline
 Created a knowledge base update and monitoring pipeline with features such as document processing, duplicate detection, validation, version handling, access control, sensitive-data masking, maintenance-window checks, and retry handling.
 
