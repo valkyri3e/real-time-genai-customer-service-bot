@@ -1,5 +1,4 @@
-# real-time-genai-customer-service-bot
-Real-Time GenAI Customer Service Bot internship project
+# Real-Time GenAI Customer Service Bot internship project
 
 Project Overview
 This project is a Real-Time GenAI Customer Service Bot designed to improve customer support by using AI-based features to understand customer messages, process information, manage support requests, and provide relevant responses.
